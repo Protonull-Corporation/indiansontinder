@@ -29,7 +29,7 @@ plugins:
    - jekyll-redirect-from
 
 # Metadata
-keywords: "web developer, designer, new delhi, ethical hacker"
+keywords: "web developer, love, match, help, dating"
 
 # Third party services
 # google-fonts: "Source+Sans+Pro:400,700,900"
@@ -38,14 +38,14 @@ keywords: "web developer, designer, new delhi, ethical hacker"
 typekit: "xmd5huf"
 
 # Commonly used lingo
-title: "$root 🌳"
-location: "New Delhi, India"
+title: "Indians on Tinder ❤️"
+location: "India"
 email: contact@example.com
 description: > # this means to ignore newlines until the next colon
-  Hey there! I'm a interactive digital experience web developer and ethical hacker from NITW!
-instagram: aakashkumar074
-github: Aakash074
-facebook: aakash074
+  Hey there! Need help in dating.
+instagram: indiansontinder
+github: indiansontinder
+facebook: indiansontinder
 
 # Offline debug flag
 dev: false
