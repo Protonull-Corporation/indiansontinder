@@ -43,9 +43,9 @@ location: "India"
 email: contact@example.com
 description: > # this means to ignore newlines until the next colon
   Hey there! Need help in dating.
-instagram: indiansontinder
+instagram: indiansondating
 github: indiansontinder
-facebook: indiansontinder
+facebook: IndiansOnDating
 
 # Offline debug flag
 dev: false
